@@ -2,5 +2,5 @@ This is a modified version of the bulbdial by Evil Mad Scientist Laboratories. T
 
 
 The major differences are:
-	Using TLC5951 LED drivers instead of multiplexing
-	No second hand
+* Using TLC5951 LED drivers instead of multiplexing
+* No second hand
