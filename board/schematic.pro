@@ -1,25 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /media/storage/Dropbox/Source/lightdial/schematic.brd
+Job           : C:/Users/Aaronbot3000/Dropbox/Source/lightdial/board/schematic.brd
 
-Start at      : 13:25:38 (11/3/11)
-End at        : 13:25:38 (11/3/11)
-Elapsed time  : 00:00:00
+Start at      : 02:31:54 (11/9/2011)
+End at        : 02:31:55 (11/9/2011)
+Elapsed time  : 00:00:01
 
-Signals       :    42   RoutingGrid: 50 mil  Layers: 2
-Connections   :    47   predefined:  0 ( 0 Vias )
+Signals       :    65   RoutingGrid: 50 mil  Layers: 2
+Connections   :   128   predefined:  127 ( 14 Vias )
 
-Router memory :   24708
+Router memory :   12932
 
-Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
+Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
-Number of Ripups  :         0         0         0         0         0         0
-max. Level        :         0         1         0         0         0         0
-max. Total        :         0         0         0         0         0         0
+Time per pass     :  00:00:00  00:00:01  00:00:00  00:00:00  00:00:00
+Number of Ripups  :         0         0         0         0         0
+max. Level        :         0         0         0         0         0
+max. Total        :         0         0         0         0         0
 
-Routed            :         0         1         1         1         1         1
-Vias              :         0         0         0         0         0         0
-Resolution        :     0.0 %     2.1 %     2.1 %     2.1 %     2.1 %     2.1 %
+Routed            :         0         0         0         0         0
+Vias              :         0         0         0         0         0
+Resolution        :    99.2 %    99.2 %    99.2 %    99.2 %    99.2 %
 
-Final             : 2.1% finished
+Final             : 100.0% finished
