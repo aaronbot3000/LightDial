@@ -1,0 +1,3 @@
+lightdial*rotated90 0.200 0.200
+lightdial*rotated90 2.925 0.200
+lightdial*rotated90 5.650 0.200
